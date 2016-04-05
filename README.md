@@ -1,2 +1,3 @@
-# react-starter
+# React Starter
+
 Getting started with React
